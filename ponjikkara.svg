@@ -14,7 +14,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="ponjikkara.svg">
+  <title
+     id="title4144">Ponjikkara</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.28717459"
-     inkscape:cx="-1084.1846"
+     inkscape:cx="-1618.7026"
      inkscape:cy="743.92548"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -45,8 +47,32 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Ponjikkara</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:date>19-03-2013</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jishnu Mohan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>Malayalam</dc:language>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -57,73 +83,73 @@
        id="rect2997"
        width="1920"
        height="1080"
-       x="-1788.5714"
-       y="-483.35211"
+       x="-2115.8984"
+       y="-476.3877"
        style="fill:#2ecc71;fill-opacity:1" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#22222f;fill-opacity:0.94117647;stroke:none;font-family:Sans"
-       x="-1312.2856"
-       y="-29.066391"
+       x="-1639.6127"
+       y="-22.101986"
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="-1312.2856"
-         y="-29.066391"
+         x="-1639.6127"
+         y="-22.101986"
          style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#22222f;fill-opacity:0.94117647;font-family:RaghuMalayalam;-inkscape-font-specification:RaghuMalayalam">ചേട്ടാ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#22222f;fill-opacity:0.94117647;stroke:none;font-family:Sans"
-       x="-1107.7142"
-       y="56.647911"
+       x="-1435.0413"
+       y="63.612316"
        id="text2989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2991"
-         x="-1107.7142"
-         y="56.647911"
+         x="-1435.0413"
+         y="63.612316"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#22222f;fill-opacity:0.94117647;font-family:RaghuMalayalam;-inkscape-font-specification:RaghuMalayalam">കുറച്ച് </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#22222f;fill-opacity:0.94117647;stroke:none;font-family:Sans"
-       x="-1052.5714"
-       y="156.64793"
+       x="-1379.8984"
+       y="163.61234"
        id="text2993"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2995"
-         x="-1052.5714"
-         y="156.64793"
+         x="-1379.8984"
+         y="163.61234"
          style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#22222f;fill-opacity:0.94117647;font-family:RaghuMalayalam;-inkscape-font-specification:RaghuMalayalam Bold">ചോറിടട്ടെ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#27ae60;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-345.5097"
-       y="253.96606"
+       x="-672.83673"
+       y="260.93048"
        id="text3769"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3771"
-         x="-345.5097"
-         y="253.96606"
+         x="-672.83673"
+         y="260.93048"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#27ae60;fill-opacity:1;font-family:RaghuMalayalam;-inkscape-font-specification:RaghuMalayalam">പോഞ്ഞിക്കര</tspan><tspan
          sodipodi:role="line"
-         x="-336.36908"
-         y="287.76199"
+         x="-663.69611"
+         y="294.72641"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#27ae60;fill-opacity:1;font-family:RaghuMalayalam;-inkscape-font-specification:RaghuMalayalam"
          id="tspan3773">കല്ല്യാണരാമന്‍ </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:80.02196503000000405px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#22222f;fill-opacity:0.94117647;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-       x="-460.08221"
-       y="206.67151"
+       style="font-size:80.02196503px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#22222f;fill-opacity:0.94117647;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="-787.40924"
+       y="213.63591"
        id="text3777"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3779"
-         x="-460.08221"
-         y="206.67151"
-         style="font-size:288.07904052999998612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#22222f;fill-opacity:0.94117647;font-family:Rachana;-inkscape-font-specification:Rachana">?</tspan></text>
+         x="-787.40924"
+         y="213.63591"
+         style="font-size:288.07904053px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#22222f;fill-opacity:0.94117647;font-family:Rachana;-inkscape-font-specification:Rachana">?</tspan></text>
   </g>
 </svg>
