@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="55.709316"
-     inkscape:cy="964.11366"
+     inkscape:cx="1321.1043"
+     inkscape:cy="739.93465"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,7 +88,8 @@
        x="0.97120881"
        y="-27.280657"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/jishnu/Pictures/Typography/vikram.png" />
     <text
        xml:space="preserve"
        style="font-size:162.95895385999997984px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
@@ -107,7 +108,10 @@
        width="851"
        height="315"
        x="0.85719514"
-       y="-348.49496" />
+       y="-348.49496"
+       inkscape:export-filename="/home/jishnu/Pictures/Typography/vikram_fb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
@@ -172,5 +176,29 @@
            id="tspan2990-2"
            sodipodi:role="line">മധ്യതിരുവിതാംകൂര് ഭരിച്ചിരുന്ന രാജാവ്</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:36.32542801px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1588.7272"
+       y="1036.0195"
+       id="text2998"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3000"
+         x="1588.7272"
+         y="1036.0195"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Meera;-inkscape-font-specification:Meera">ചതിക്കാത്ത ചന്തു, 2004</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.01517868px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="706.71796"
+       y="-39.575188"
+       id="text2998-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3000-9"
+         x="706.71796"
+         y="-39.575188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Meera;-inkscape-font-specification:Meera">ചതിക്കാത്ത ചന്തു, 2004</tspan></text>
   </g>
 </svg>
